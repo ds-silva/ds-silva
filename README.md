@@ -1,4 +1,4 @@
-### Hi there I'm David Silva 👋
+### Hi there! I'm David Silva 👋
 - 👔🛠⚙ I’m a DevOps Engeneer at Bllog, and I'm also learning .NET on Digital Inovation One.
 
 <div>
