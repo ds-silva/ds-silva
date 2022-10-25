@@ -1,5 +1,5 @@
 ### Morning Guys! I'm David Silva 👋
-- 👔🛠⚙ I’m a DevOps Engeneer at Bllog, and I'm also learning .NET on Digital Inovation One.
+- 👔🛠⚙ I’m a DevOps Engeneer at Bllog.
 
 <div>
   <a href="https://www.linkedin.com/in/david-barbosa-da-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
